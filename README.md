@@ -1,9 +1,6 @@
 
 <div align="center">
-  
-<a href="https://twitter.com/meirbank">
-  <img align="left" alt="Meir Bank | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
+ 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=meirbank)
 
